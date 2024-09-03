@@ -14,7 +14,10 @@ Based on the vote trends of the polling units for various parties, this research
   The Result includes a csv with longitude and latitude values for each polling unit. Then calculated outlier scores, a report on the findings.
   
   The detailed code and data used in this analysis can be found here, the repository contains the following:
+  
 •	The complete dataset used for the analysis.
+
 •	Python scripts for data processing, geospatial analysis, and outlier detection.
+
 •	Google Collab with detailed code and explanations.
 
